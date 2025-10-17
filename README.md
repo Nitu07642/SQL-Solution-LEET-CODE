@@ -74,7 +74,7 @@ This repository is maintained with ❤️ and synced using [LeetHub v2](https://
 
 ---
 
-# ✨ Short & Catchy README (Optional)
+# ✨ Catchy 
 
 📚 This repo contains my daily SQL solutions from [LeetCode](https://leetcode.com) —  
 perfect for interview preparation and mastering databases 🚀
